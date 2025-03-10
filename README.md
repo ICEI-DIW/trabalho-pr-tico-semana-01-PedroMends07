@@ -5,7 +5,7 @@ Nome: José Pedro Mendes Neto
 Matricula: 879528
 
 ## Tela de inspeção com navegador
-
+![inspeção](inspeção.png)
 
 ## Tela de projeto no Replit
-
+![replit](replit.png)
